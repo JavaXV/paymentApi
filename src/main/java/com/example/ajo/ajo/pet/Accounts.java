@@ -30,9 +30,6 @@ public class Accounts {
     @Column(name = "pageno")
     private String pageno;
 
-    @Column(name = "pageno")
-    private String pageno;
-
     @Column(name = "initialdeposite")
     private Integer initialdeposite;
 
