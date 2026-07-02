@@ -21,6 +21,9 @@ public class Accounts {
     @Column(name = "branch")
     private String branch;
 
+   @Column(name = "branch")
+    private String branch;
+
     @Column(name = "fullname")
     private String fullname;
 
